@@ -1,0 +1,16 @@
+body{
+    padding: 20px 80px;
+}
+
+a{
+    text-decoration: none;
+    color: black ;
+}
+
+a:hover{
+    color: blue;
+}
+
+*{
+    box-sizing: border-box;
+}
