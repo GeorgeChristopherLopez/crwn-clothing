@@ -1,6 +1,6 @@
 
 import { Component } from 'react';
-import CollectPreview from '../../components/preview-collection/collection-preview.component.js';
+import CollectPreview from '../../components/collection-preview/collection-preview.component.js';
 import SHOP_DATA from './shop.data.js'
 
 class ShopPage extends Component {
