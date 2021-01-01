@@ -7,7 +7,7 @@ export const HomePage = () =>{
     return(
         <div className="homepage">
      
-     <Directory></Directory>
+     <Directory/>
         </div>
         );
 }
